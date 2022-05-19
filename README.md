@@ -8,8 +8,8 @@
 
 <div align="center">
 <a href="https://github.com/pedrojhenrique">
-<img height="156em" src="https://github-readme-stats.vercel.app/api?username=pedrojhenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojhenrique&layout=compact&langs_count=7&theme=dark"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=pedrojhenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojhenrique&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
 <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Pedro-PHP" height="42" width="52" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 <img align="center" alt="Pedro-Go" height="42" width="52" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">  
-<img align="right" alt="Bat-gif" height="150" style="border-radius:50px;" 
+<img align="right" alt="Bat-gif" height="160" style="border-radius:50px;" 
 src="http://1.bp.blogspot.com/-RFogvXMTqEs/VCIH_b1I07I/AAAAAAAAzUs/e1GZcl7zF14/s1600/morcegos.gif">
 </div>
   

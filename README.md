@@ -17,8 +17,8 @@
 <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Pedro-C" height="33" width="43" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-<img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Pedro-C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+<img align="center" alt="Pedro-Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Pedro-PHP" height="42" width="52" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 <img align="center" alt="Pedro-Go" height="42" width="52" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">  
 <img align="right" alt="Bat-gif" height="160" style="border-radius:50px;" 

@@ -1,7 +1,7 @@
 ### Olá! Eu sou Pedro João Henrique, técnico em eletroeletrônica e estudante de ADS.
 
 
-- 💼 Atualmente eu trabalho com eletrônica, mas estou em busca de estágio back ou front-end.
+- 💼 Atualmente eu trabalho com eletrônica e estou em busca de estágio back ou front-end.
 - 📚 Estudando CSS, HTML, JavaScript, PHP, Python, GoLang e SQL.
 
 ##

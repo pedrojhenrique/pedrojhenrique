@@ -1,8 +1,8 @@
-### Olá! Eu sou Pedro João Henrique, técnico em eletroeletrônica e estudante de ADS.
+### Olá! Eu sou Pedro Henrique, estagiário de desenvolvimento Backend e estudante de ADS.
 
 
-- 💼 Atualmente eu trabalho com eletrônica e estou em busca de estágio back ou front-end.
-- 📚 Estudando CSS, HTML, JavaScript, PHP, Python, GoLang e SQL.
+- 💼 Atualmente eu trabalho com desenvolvimento Backend voltado a projetos web, utilizando a linguagem GoLang.
+- 📚 Estudando com foco em: GoLang, Docker, Python, SQL, CSS, HTML e JavaScript.
 
 ##
 

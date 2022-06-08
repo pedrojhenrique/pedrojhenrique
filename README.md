@@ -2,7 +2,7 @@
 
 
 - 💼 Atualmente eu trabalho com desenvolvimento Backend voltado a projetos web, utilizando principalmente a linguagem Go.
-- 📚 Estudando com foco em: GoLang, Docker, Python, SQL, CSS, HTML e JavaScript.
+- 📚 Estudando com foco em: GoLang, Docker, Angular, Python, SQL, CSS, HTML e JavaScript.
 
 ##
 

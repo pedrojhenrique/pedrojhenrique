@@ -1,8 +1,8 @@
-### Olá! Eu sou Pedro Henrique, estagiário em desenvolvimento Backend e estudante de ADS.
+### Olá! Eu sou Pedro Henrique, técnico em Eletroeletrônica e estudante de ADS.
 
 
-- 💼 Atualmente eu trabalho com desenvolvimento Backend voltado a projetos web, utilizando principalmente a linguagem Go.
-- 📚 Estudando com foco em: GoLang, Docker, Angular, Python, SQL.
+- 💼 Atualmente eu busco estágio em desenvolvimento de softwares, utilizando principalmente as linguagens e tecnologias que estou focando.
+- 📚 Estudando com foco em: Python, Java, JavaScript, Angular, SQL Server.
 
 ##
 

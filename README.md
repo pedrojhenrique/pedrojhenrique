@@ -1,8 +1,8 @@
-### Olá! Eu sou Pedro Henrique, técnico em Eletroeletrônica e estudante de ADS.
+### Olá! Eu sou Pedro Henrique, técnico em Eletroeletrônica e graduando em ADS.
 
 
 - 💼 Atualmente eu busco estágio ou vaga para júnior em desenvolvimento de softwares, utilizando principalmente as linguagens e tecnologias que estou focando.
-- 📚 Estudando com foco em: Python, Java, JavaScript, Django, SQL Server.
+- 📚 Estudando com foco em: Python, Java, JavaScript, Django, SQL Server e PostgreSQL.
 
 ##
 

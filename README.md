@@ -1,8 +1,8 @@
-### Olá! Eu sou Pedro Henrique, técnico em Eletroeletrônica e graduando em ADS.
+### Olá! Eu sou Pedro Henrique, desenvolvedor front-end e graduando em ADS.
 
 
-- 💼 Atualmente eu busco estágio ou vaga para júnior em desenvolvimento de softwares, utilizando principalmente as linguagens e tecnologias que estou focando.
-- 📚 Estudando com foco em: Java, Python, Spring Boot, Django, SQL Server e PostgreSQL.
+- 💼 Atualmente eu trabalho com desenvolvimento front-end voltado ao ramo da logística. Utilizando principalmente C#, ASP.NET, Azure e MariaDB.
+- 📚 Estudando com foco em: Java, C#, ASP.NET, Blazor, Azure e PostgreSQL.
 
 
 <div style="display: inline_block"><br>

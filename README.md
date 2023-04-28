@@ -1,8 +1,8 @@
 ### Olá! Eu sou Pedro Henrique, desenvolvedor front-end e graduando em ADS.
 
 
-- 💼 Atualmente eu trabalho com Desenvolvimento Front-End voltado ao ramo da logística. Utilizando principalmente C#, ASP.NET Core, Azure e MariaDB.
-- 📚 Estudando com foco em: Java, C#, ASP.NET Core, Blazor, Azure e PostgreSQL.
+- 💼 Atualmente eu trabalho com Desenvolvimento Frontend e Backend voltado ao ramo da logística. Utilizando principalmente C#, ASP.NET Core, Azure e MariaDB.
+- 📚 Estudando com foco em: C#, ASP.NET Core, Blazor, Azure e SQL Server.
 
 
 <div style="display: inline_block"><br>

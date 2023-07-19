@@ -11,7 +11,8 @@
 <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Pedro-Angular" height="35" width="42" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
 <img align="center" alt="Pedro-C++" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="center" alt="Pedro-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+<img align="center" alt="Pedro-C#" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Pedro-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Pedro-Python" height="37" width="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Pedro-Go" height="46" width="56" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
 </div>

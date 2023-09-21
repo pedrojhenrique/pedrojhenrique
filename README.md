@@ -1,4 +1,4 @@
-### Olá! Eu sou Pedro Henrique, desenvolvedor .NET e graduando em ADS.
+### Olá! Sou Pedro Henrique, desenvolvedor .NET e graduando em ADS.
 
 
 - 💼 Atualmente eu trabalho com Desenvolvimento Frontend e Backend voltado ao ramo da logística. Utilizando principalmente C#, .NET, Azure e SQL Server.
